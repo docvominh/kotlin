@@ -12,3 +12,13 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+/.idea/
+**/build/
+**/.gradle/
+version.env
+CHANGELOG.md
+CHANGELOG.html
+/cert/
+/.fleet/
+/out
+/basic-lang/build/*
